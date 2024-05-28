@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972352152564",
+    "project_id": "national-gallery-5a42f",
+    "storage_bucket": "national-gallery-5a42f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972352152564:android:703b2354940611de0e0fa1",
+        "android_client_info": {
+          "package_name": "com.example.nationalgallery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVPEqhlTz4TPKrIVt0dWOWQu4gpDZl-Wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
